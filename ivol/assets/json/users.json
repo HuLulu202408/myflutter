@@ -1,0 +1,50 @@
+[
+    {
+        "id":"20260902001",
+        "name":"张三",
+        "signature":"我是一名程序员",
+        "avatar":"avatar1.png",
+        "account":"882390175",
+        "password":"123456",
+        "status":"1",
+        "createTime":"2023-09-02 10:00:00",
+        "updateTime":"2023-09-02 10:00:00",
+        "vipExpireTime":""
+    },
+    {
+        "id":"20260902002",
+        "name":"李四",
+        "signature":"我是一名设计师",
+        "avatar":"avatar2.png",
+        "account":"882390176",
+        "password":"123456",
+        "status":"1",
+        "createTime":"2023-09-02 10:05:00",
+        "updateTime":"2023-09-02 10:05:00",
+        "vipExpireTime":"" 
+    },
+    {
+        "id":"20260902003",
+        "name":"王五",
+        "signature":"我是一名产品经理",
+        "avatar":"avatar3.png",
+        "account":"882390177",
+        "password":"123456",
+        "status":"1",
+        "createTime":"2023-09-02 10:10:00",
+        "updateTime":"2023-09-02 10:10:00",
+        "vipExpireTime":""
+    },
+    {
+        "id":"20260902004",
+        "name":"赵六",
+        "signature":"我是一名测试工程师",
+        "avatar":"avatar4.png",
+        "account":"882390178",
+        "password":"123456",
+        "status":"1",
+        "createTime":"2023-09-02 10:15:00",
+        "updateTime":"2023-09-02 10:15:00",
+        "vipExpireTime":""
+    }
+]
